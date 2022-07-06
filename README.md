@@ -1,1 +1,1 @@
-# Claculator
+# Calculator
